@@ -1,4 +1,4 @@
-## Available Scripts
+## Description
 Project for monitoring of users:
   -Add;
   -List;

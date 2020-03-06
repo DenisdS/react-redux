@@ -4,7 +4,7 @@ Project for monitoring of users:
   -List;
   -Delete.
 
-### Tecnologias
+### Technologies
 JavaScript (React/Redux);
 React (Hooks);
 Eslint;
